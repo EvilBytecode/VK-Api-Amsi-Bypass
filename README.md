@@ -120,6 +120,10 @@ Vk-Amsi-Bypass.exe <PID>
 ```
 
 ---
+## Pics:
+<img width="849" height="392" alt="image" src="https://github.com/user-attachments/assets/f9f41647-35b2-4fd8-b944-547f9f634123" />
+<img width="1095" height="211" alt="image" src="https://github.com/user-attachments/assets/1596977f-f570-42bb-b43e-c206019cafd6" />
+
 
 *"In the game of cat and mouse, sometimes the mouse uses the cat's own rules against it."* 🐭🐱
 
