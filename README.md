@@ -1,4 +1,4 @@
-# VK* API AMSI Bypass - The Vulkan Trampoline Hack
+# VK* API AMSI Bypass
 
 > *"When they patch one door, we find another..."*
 
